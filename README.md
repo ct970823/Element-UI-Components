@@ -42,7 +42,7 @@ Vue.use(paging);
 ```
 2. 局部引入
 ```javascript
-import {paging} from "@/components/paging/index";
+import paging from "@/components/paging/index";
 ```
 3. 使用
 ```javascript
